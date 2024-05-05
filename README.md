@@ -1,5 +1,5 @@
 # BallsCrestShield
-Replaces the Grass Crest Shield texture to Kaeya Balls face
+Replaces the Grass Crest Shield texture to [Kaeya Balls face](https://7tv.app/emotes/624c6b32e236ca9775ecbaa1)
 
 ### Installation
 * Step 1: Download [TKGP's "DSR Texture Packer and Unpacker (TPUP)"](https://www.nexusmods.com/darksoulsremastered/mods/9)
