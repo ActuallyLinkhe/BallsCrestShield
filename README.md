@@ -8,6 +8,7 @@ Replaces the Grass Crest Shield texture to Kaeya Balls face
 * Step 4: Move the files in BallsShield\Texture Override to the Texture Override folder in TPUP's files
 * Step 5: Open "DSR-TPUP.exe"
 * Step 6: At the top of TPUP's window, a place for you to input your game's installation folder will appear. Click on browse and look for your game's intallation folder.
+
 _(If you're on steam, right click on the game's cover art or name, go to Manage and then click Browse Local Files, this will open the game's installation folder)_
 * Step 7: Right below Game Directory, select the option "Repack"
 * Step 8: A bit below, to the right, click on the "Repack" button
